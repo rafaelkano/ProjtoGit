@@ -1,0 +1,1 @@
+Olá, este arquivo irá ensinar tudo sobre Git.
